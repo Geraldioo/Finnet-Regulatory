@@ -1,0 +1,15 @@
+{
+    "name": "Qris-Report",
+    "description": "",
+    "manual": "",
+    "outputType": "project",
+    "main": "/Main process.flow",
+    "version": "1.0.0",
+    "engines": {
+        "designer": "5.0.RT196",
+        "server": "5.0.RT196",
+        "executor-runtime": "4.2.0"
+    },
+    "uuid": "9e53941f-c912-4ad9-9d29-a02e0fdc82b8",
+    "dependencies": {}
+}
