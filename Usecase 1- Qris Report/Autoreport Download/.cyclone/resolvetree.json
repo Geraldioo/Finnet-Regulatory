@@ -1,1 +1,1 @@
-{"name":"Autoreport Download","versionRange":"1.0.0","children":[],"nodeState":1}
+{"name":"RPA_REGULATORY_DEV","versionRange":"1.0.0","children":[{"name":"Outlook_Automation","versionRange":"1.0.3","solution":{"name":"Outlook_Automation","version":"1.0.3","remote":"appMarket","shasum":"57add35958f152822e6789e31ecd72ac9a5b9908","fetched":true},"children":[],"nodeState":1}],"nodeState":1}
