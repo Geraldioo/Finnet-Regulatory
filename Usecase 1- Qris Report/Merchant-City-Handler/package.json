@@ -1,0 +1,15 @@
+{
+    "name": "Template_Flow",
+    "description": "",
+    "manual": "",
+    "outputType": "project",
+    "main": "/Main process.flow",
+    "version": "1.0.0",
+    "engines": {
+        "designer": "5.0.RT196",
+        "server": "5.0.RT196",
+        "executor-runtime": "4.2.0"
+    },
+    "uuid": "be7ad44c-b859-4c9f-a243-1e7b4f54a770",
+    "dependencies": {}
+}

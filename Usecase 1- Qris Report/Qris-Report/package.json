@@ -1,15 +1,1 @@
-{
-    "name": "Template_Flow",
-    "description": "",
-    "manual": "",
-    "outputType": "project",
-    "main": "/Main process.flow",
-    "version": "1.0.0",
-    "engines": {
-        "designer": "5.0.RT196",
-        "server": "5.0.RT196",
-        "executor-runtime": "4.2.0"
-    },
-    "uuid": "be7ad44c-b859-4c9f-a243-1e7b4f54a770",
-    "dependencies": {}
-}
+{"name":"Qris-Report","description":"","manual":"","outputType":"project","main":"/Main process.flow","version":"1.0.0","engines":{"designer":"5.0.RT196","server":"5.0.RT196","executor-runtime":"4.2.0"},"uuid":"413db997-3d09-4e00-8a6f-ca65c934aae4","dependencies":{"Outlook_Automation":"1.0.4"}}
