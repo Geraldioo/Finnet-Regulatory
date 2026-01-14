@@ -1,1 +1,1 @@
-{"name":"Template_Flow","versionRange":"1.0.0","children":[],"nodeState":1}
+{"name":"Qris-Report","versionRange":"1.0.0","children":[{"name":"Outlook_Automation","versionRange":"1.0.4","solution":{"name":"Outlook_Automation","version":"1.0.4","remote":"appMarket","shasum":"a7de80e16f33a821e5710d2a019e377713c876d1","fetched":true},"children":[],"nodeState":1}],"nodeState":1}
