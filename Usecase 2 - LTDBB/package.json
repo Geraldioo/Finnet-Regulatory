@@ -1,0 +1,1 @@
+{"name":"LTDBB","description":"","manual":"","outputType":"project","main":"/Main process.flow","version":"1.0.0","engines":{"designer":"5.0.RT196","server":"5.0.RT196","executor-runtime":"4.2.0"},"uuid":"f89e2248-7584-481d-aceb-c17dd97cc6f1","dependencies":{"Outlook_Automation":"1.0.4"}}
