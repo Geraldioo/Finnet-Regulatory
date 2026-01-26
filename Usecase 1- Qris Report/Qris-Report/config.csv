@@ -5,8 +5,8 @@ email_account;"bryan.geraldio@elistec.com;"
 email_receiver;"bryan.geraldio@elistec.com;"
 email_cc;"bryan.geraldio@elistec.com;bayu.iswandi@elistec.com"
 email_bcc;"bryan.geraldio@elistec.com;bayu.iswandi@elistec.com"
-db_address;localhost
+db_address;172.28.42.6
 db_port;3306
-db_username;root
-db_password;12345
+db_username;eiu
+db_password;P@55w0rd
 db_name;regulatorydev
