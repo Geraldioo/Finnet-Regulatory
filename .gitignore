@@ -1,1 +1,9 @@
-.cyclone/
+# Ignore everything inside ANY .cyclone directory (recursive)
+**/.cyclone/*
+ 
+# Allow snapshots directory
+!**/.cyclone/snapshots/
+ 
+# Allow everything inside snapshots
+!**/.cyclone/snapshots/**
+ 
