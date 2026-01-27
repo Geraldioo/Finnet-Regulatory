@@ -1,0 +1,1 @@
+{"name":"LTDBB Report Download","description":"","manual":"","outputType":"project","main":"/Main process.flow","version":"1.0.0","engines":{"designer":"5.0.RT196","server":"5.0.RT196","executor-runtime":"4.2.0"},"uuid":"0838e019-d1cb-4497-9dbc-c42e129b79d1","dependencies":{"Outlook_Automation":"1.0.4"}}
