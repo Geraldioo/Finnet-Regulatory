@@ -1,0 +1,14 @@
+﻿key;value
+db_constring;"constring;"
+sharepoint_path;"D:\FINNET\Temp_Path;"
+email_account;"bryan.geraldio@elistec.com;"
+email_receiver;"bryan.geraldio@elistec.com;"
+email_cc;"bryan.geraldio@elistec.com;bayu.iswandi@elistec.com"
+email_bcc;"bryan.geraldio@elistec.com;bayu.iswandi@elistec.com"
+db_address;localhost
+db_port;3306
+db_username;root
+db_password;12345
+db_name;regulatorydev
+web_usn;frida
+web_pass;12345
